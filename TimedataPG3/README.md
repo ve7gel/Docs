@@ -1,13 +1,18 @@
 # Timedata Nodeserver
 A Timedata node server for the Universal Devices ISY994
 
-Copyright 2020, 2021 Gordon Larsen
+Copyright 2020, 2021, 2022 Gordon Larsen
 
 #### Installation
 Latitude and Longitude entries are required to determine sundata and hemisphere.
 Timezone offset SHOULD be DST aware, but has not been tested for every timezone permutation.
 
 Released for Polyglot V3 on Polisy
+
+There have been some changes made during the migration to PG3. In particular, some node ids have changed. This means that
+when using variable substitution, some updates to your Configuration/Customizations may be required.  For instance, the
+"timedata" node was renamed to "controller", so instead of: ${sys.node.n007_timedata.GV5}, the script needs to be: ${sys.node.n007_controller.GV5}
+
 #### Issues
 Please post any issues encountered on the UDI Forum at "https://forum.universal-devices.com/topic/28797-new-isy-time-data-poly/".  Github is not monitored.
 
