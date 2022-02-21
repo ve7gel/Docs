@@ -9,6 +9,7 @@ Configuration will require downloading https://github.com/shenxn/libdyson/blob/m
 Supply your account email address and password, then enter the token that you receive at the email address registered on your account.  The program will the supply the credential.  Copy and save it.
 
 ###Version History:
+
 3.1.0 February 21, 2022
 - add support for oscillation angle control
 
