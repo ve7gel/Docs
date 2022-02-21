@@ -1,17 +1,17 @@
-# udi-poly-dysonfan
+ udi-poly-dysonfan
 UDI Poly for Dyson TP series fans. I only have a TP07 DysonPureCool so haven't tested it with any other models.  There is currently no support for any heat models.  If you are interested in adding support and are willing to test, PM me on the UDI Forum (@glarsen). 
-This nodeserver uses the libdyson Python library by Xiaonan Shen.  WARNING:  Dyson could change their API at any time rendering this nodeserver inoperable.  I
+This nodeserver uses the libdyson Python library by Xiaonan Shen. WARNING:  Dyson could change their API at any time rendering this nodeserver inoperable.  I
 can offer no assurances that this can be fixed.
 
 Configuration will require downloading https://github.com/shenxn/libdyson/blob/main/get_devices.py from libdyson, and then running it "python3 get_devices.py".
 
+
 Supply your account email address and password, then enter the token that you receive at the email address registered on your account.  The program will the supply the credential.  Copy and save it.
 
-###TODO:
-###Add features:
-- oscillation angle
-
 ###Version History:
+3.0.7 February 21, 2022
+- add support for oscillation angle control
+
 3.0.6 February 16, 2022
 - code formatting and fix won't install from store
 
