@@ -15,6 +15,9 @@ then running it "python3 get_devices.py".  Supply your account email address and
 receive at the email address registered on your account.  The program will the supply the credential.  Copy and save it.
 
 ###Version History:
+3.1.5 February 28, 2022
+- bug fix for PH02
+
 3.1.4 February 28, 2022
 - fix fan status display. Change how auto mode and fan speed display in UI
 
