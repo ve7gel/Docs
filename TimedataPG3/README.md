@@ -17,6 +17,8 @@ when using variable substitution, some updates to your Configuration/Customizati
 Please post any issues encountered on the UDI Forum at "https://forum.universal-devices.com/topic/28797-new-isy-time-data-poly/".  Github is not monitored.
 
 ## Release Notes
+- 3.2.21 09/03/2022
+  - update requirements for udi_interface 3.0.36
 - 3.2.20 27/02/2022
   - add stop handler
 - 3.2.18 28/01/2022
