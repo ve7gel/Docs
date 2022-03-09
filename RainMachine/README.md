@@ -42,9 +42,11 @@ Github is not watched.
  * 'GV4', Weekday restrictions?
 
 ## Release Notes
+- 3.1.5 08/03/2022
+  - add poly.stop() to stop function 
 - 3.1.4 04/03/2022
   - change US units to gpm.  Requires ISY on Polisy 5.4.0 or greater
-  - update requirements for udi_interface 3.0.3
+  - update requirements for udi_interface 3.0.36
 - 3.1.3 10/02/2022
   - correction to profile for display of nodeserver status
 - 3.1.2 24/01/2022
