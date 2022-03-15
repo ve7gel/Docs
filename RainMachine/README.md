@@ -42,6 +42,8 @@ Github is not watched.
  * 'GV4', Weekday restrictions?
 
 ## Release Notes
+- 3.1.6 15/03/2022
+  - fix local precipitation display
 - 3.1.5 08/03/2022
   - add poly.stop() to stop function 
 - 3.1.4 04/03/2022
