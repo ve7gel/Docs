@@ -10,7 +10,6 @@ This nodeserver was developed on the rainmachine Mini-8. It should work similarl
 Software currently fully supports hardware version 2, with API version 4.1 or higher.
 On hardware version 1, mixer values(rain today and qpf values), rain sensor and freeze protect states are not available.
  
-Tested OK on Polisy and RPi
 
 ## Issues
 Please raise any issues on the UDI forum at "https://forum.universal-devices.com/forum/170-green-electronics-rainmachine/".  
@@ -22,7 +21,8 @@ Github is not watched.
  * 'GV3', Zone runtime minutes remaining
  * 'GV4', Zone runtime seconds remaining
  * 'GV5', Is this a master zone?
-    ]
+ * 'GV6', Flow Rate
+
 #### Programs:
  * 'ST', Program status
  * 'GV3', Program nextrun day
