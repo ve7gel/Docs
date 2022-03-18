@@ -5,6 +5,9 @@ Copyright 2020 Gordon Larsen MIT License
 
 #### Installation
 
+PLEASE NOTE: As of version 3.1.4, this nodeserver is only fully supported on PG3 and ISY on Polisy version 5.4.0 or greater.
+The profile changes break the 'Status' functions in IF statements for Zones for earlier versions.
+
 This nodeserver was developed on the rainmachine Mini-8. It should work similarly on other devices, 
     but hasn't been tested.
 Software currently fully supports hardware version 2, with API version 4.1 or higher.
