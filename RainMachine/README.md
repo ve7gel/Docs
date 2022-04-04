@@ -45,6 +45,12 @@ Github is not watched.
  * 'GV4', Weekday restrictions?
 
 ## Release Notes
+- 3.2.0 04/04/2022
+  - add parameter to provide option to exclude inactive zones from node creation
+- 3.1.8 01/04/2022
+  - catch error that occurs in discover when hostname is missing or invalid.
+- 3.1.7 24/03/2022
+  - minor profile changes
 - 3.1.6 15/03/2022
   - fix local precipitation display
 - 3.1.5 08/03/2022
