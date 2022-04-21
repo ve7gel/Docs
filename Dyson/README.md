@@ -15,6 +15,13 @@ then running it "python3 get_devices.py".  Supply your account email address and
 receive at the email address registered on your account.  The program will the supply the credential.  Copy and save it.
 
 ###Version History:
+3.2.1 April 21, 2022
+- add some config error trapping and messages at startup
+
+3.2.0 March 10, 2022
+- change uom for ppm to ug/m3 to display ppm correctly in UI
+- add humidity settings for PH02
+
 3.1.5, 3.1.6 February 28, 2022
 - bug fix for PH02
 
