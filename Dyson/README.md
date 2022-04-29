@@ -9,12 +9,17 @@ WARNING:  Dyson could change their API at any time
 rendering this nodeserver inoperable.  I can offer no assurances that this can be fixed.
 
 Dyson PH02 PureHumidifyCool support is basic.  Humidity settings are not yet implemented.
+Dyson TP02 PureCoolLink support is in BETA.  Please report any issues on the forum.
 
 Configuration will require downloading https://github.com/shenxn/libdyson/blob/main/get_devices.py from libdyson, and 
 then running it "python3 get_devices.py".  Supply your account email address and password, then enter the token that you
 receive at the email address registered on your account.  The program will the supply the credential.  Copy and save it.
 
 ###Version History:
+
+3.3.1 April 29, 2022
+- add BETA support for TP02 (model 475)
+
 3.2.1 April 21, 2022
 - add some config error trapping and messages at startup
 
