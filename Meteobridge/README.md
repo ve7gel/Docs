@@ -39,7 +39,7 @@ The settings for this node are:
 ## Requirements
 
 1. This NS has been tested and verified for compatibility with UDI Polisy.
-2. This has only been tested with ISY 5.4 or higher so it is not guaranteed to work with any other version.
+2. This has only been tested with ISY 5.4 or higher thus is not guaranteed to work with any earlier other version.
 3. The NS has only been tested with a Davis Vantage Pro2+ via Meteobridge, so full compatibility with other platforms is not guaranteed.
 
 ## Issues
