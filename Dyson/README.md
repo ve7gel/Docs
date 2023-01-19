@@ -16,6 +16,7 @@ then running it "python3 get_devices.py".  Supply your account email address and
 receive at the email address registered on your account.  The program will the supply the credential.  Copy and save it.
 
 ###Version History:
+
 4.0.0 January 19, 2023
 - release - add support for PureCoolHumidity series 358, 358E, 358K.  Thanks to UDI Forum member jwagner10 for his assistance in testing the code on the 358k
 
