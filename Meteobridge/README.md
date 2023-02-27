@@ -37,13 +37,11 @@ The settings for this node are:
 ## Requirements
 
 1. This NS has been tested and verified for compatibility with UDI Polisy.
-2. This has only been tested with ISY 5.4 or higher thus is not guaranteed to work with any earlier other version.
+2. This has only been tested with ISY 5.4 or later thus is not guaranteed to work with any earlier other version.
 3. The NS has only been tested with a Davis Vantage Pro2+ via Meteobridge, so full compatibility with other platforms is not guaranteed.
 
 ## Issues
 Please raise any issues on the UDI forum at "https://forum.universal-devices.com/topic/28637-new-meteobridge-weather-nodeserver/" Github is not watched.
-# Upgrading
-Polyglot will display a message if an update is available.  Simply restart the node server to load and run the new version.
 
 
 # Release Notes
