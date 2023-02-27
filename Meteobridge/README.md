@@ -1,8 +1,8 @@
 # MeteoBridge
-Nodeserver to acquire data using templates from Meteobridge 
+Node server to acquire data using templates from Meteobridge 
 weather server.  Requires authorization thus entry of username
-and password.  This nodeserver is an adaptation of the
-meteobridgepoly nodeserver written by [Bob Pauuwe](http://www.bobsplace.com).
+and password.  This node server is an adaptation of the
+meteobridgepoly node server written by [Bob Pauuwe](http://www.bobsplace.com).
 
 This node server is designed to support the [Meteobridge](http://www.meteobridge.com/)
 in combination with a [Davis Instruments Vantage Pro 2+](https://www.davisinstruments.com/solution/vantage-pro2/) weather station
@@ -13,10 +13,8 @@ the evapotranspiration values provided by the VP2+ will be missing
 
 1. Backup Your ISY in case of problems!
    * Really, do the backup, please
-2. Go to the Polyglot Store in the UI and install.
-3. Add NodeServer in Polyglot Web
-   * After the install completes, Polyglot will reboot your ISY, you can watch the status in the main polyglot log.
-4. Enter the configuration parameters as needed. A restart may be required.
+2. Go to the PG3 Store in the UI and install.
+3. Enter the configuration parameters as needed. A restart may be required.
 
 ### Node Settings
 The settings for this node are:
