@@ -22,9 +22,9 @@ the evapotranspiration values provided by the VP2+ will be missing
 The settings for this node are:
 
 #### Short Poll
-   * Not used
-#### Long Poll
    * How often the MeteoBridge is polled for data
+#### Long Poll
+   * Not used
 #### Password
    * Password associated with the configured MeteoBridge
 #### IPAddress
@@ -47,6 +47,8 @@ Polyglot will display a message if an update is available.  Simply restart the n
 
 
 # Release Notes
+- 3.1.0 01/03/2023
+  - clean up code and update for latest PG3/PG3x requirements.
 - 3.0.6 29/10/2022
   - bugfixes and profile updates to correct wind values in programs on ISY.
   - make nls values more descriptive to differentiate raw values from configured units values
