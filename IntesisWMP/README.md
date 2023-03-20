@@ -24,5 +24,5 @@ For use in notifications these drivers can be used:
 ###Add features:
 
 ###Version History:
-3.0.0 February 28, 2022
+3.0.0 March 20, 2023
 - Initial release for PG3
