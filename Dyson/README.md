@@ -16,6 +16,8 @@ then running it "python3 get_devices.py".  Supply your account email address and
 receive at the email address registered on your account.  The program will the supply the credential.  Copy and save it.
 
 ###Version History:
+4.0.2 March 20, 2023
+- update requirements for latest udi_interface
 
 4.0.1 January 25, 2023
 - move version info from server.json
