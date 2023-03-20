@@ -1,4 +1,4 @@
-Software License Agreement Template
+Software License Agreement
 
 THIS SOFTWARE LICENSE AGREEMENT (the " Software Agreement")
 BETWEEN The Licensor and Gordon Larsen Software Development
