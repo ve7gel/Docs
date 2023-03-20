@@ -43,6 +43,8 @@ Please raise any issues on the UDI forum at "https://forum.universal-devices.com
 
 
 # Release Notes
+- 3.1.1 20/03/2023
+  - update requirements to latest udi_interface
 - 3.1.0 01/03/2023
   - add max/min to humidity node info
   - added falling rapidly and rising rapidly to pressure trend
