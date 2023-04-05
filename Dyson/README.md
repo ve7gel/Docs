@@ -14,6 +14,11 @@ Dyson TP02 PureCoolLink support is in BETA.  Please report any issues on the for
 Configuration will require downloading https://github.com/shenxn/libdyson/blob/main/get_devices.py from libdyson, and 
 then running it "python3 get_devices.py".  Supply your account email address and password, then enter the token that you
 receive at the email address registered on your account.  The program will the supply the credential.  Copy and save it.
+You can do this by "ssh"ing to your Polisy or Eisy.  The libdyson library then is cloned from github into your admin
+directory.  Change into the library directory and run the command above.
+
+You will likely need to be logged out of your phone app, or any other web sites for this to work, otherwise you will most
+likely get and "Authorization Error". Once you have the credential, you can then log back in to the app.
 
 ###Version History:
 4.0.2 March 20, 2023
