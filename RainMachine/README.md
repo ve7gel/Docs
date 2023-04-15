@@ -45,8 +45,7 @@ Github is not watched.
  * 'GV4', Weekday restrictions?
 
 ## Release Notes
-- 3.2.1 20/03/2023
-  - update requirements for latest udi-interface
+
 - 3.2.0 04/04/2022
   - add parameter to provide option to exclude inactive zones from node creation
 - 3.1.8 01/04/2022
