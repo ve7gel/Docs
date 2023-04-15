@@ -46,7 +46,7 @@ Github is not watched.
 
 ## Release Notes
 - 3.2.1 15/04/2023
- - update for latest udi_interface.  Fix heartbeat display.
+  - update for latest udi_interface.  Fix heartbeat display.
 - 3.2.0 04/04/2022
   - add parameter to provide option to exclude inactive zones from node creation
 - 3.1.8 01/04/2022
