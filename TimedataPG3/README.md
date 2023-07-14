@@ -13,7 +13,7 @@ There have been some changes made during the migration to PG3. In particular, so
 when using variable substitution, some updates to your Configuration/Customizations may be required.  For instance, the
 "timedata" node was renamed to "controller", so instead of: ${sys.node.n007_timedata.GV5}, the script needs to be: ${sys.node.n007_controller.GV5}
 <img
-  src="./img.jpg"
+  src="./img.png"
   alt="Timedata"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
