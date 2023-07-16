@@ -18,6 +18,7 @@ See the two images below for screen displays of data provided by the Node Server
 ![Timedata screen](./Images/Timedata.png)
 ![Sundata screen](Images/Sundata.png)
 
+
 #### Issues
 Please post any issues encountered on the UDI Forum at "https://forum.universal-devices.com/forum/290-timedata/".  Github is not monitored.
 
