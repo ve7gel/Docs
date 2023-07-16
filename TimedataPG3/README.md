@@ -19,7 +19,7 @@ See the two images below for screen displays of data provided by the Node Server
 ![Sundata screen](Images/Sundata.png)
 
 #### Issues
-Please post any issues encountered on the UDI Forum at "https://forum.universal-devices.com/topic/28797-new-isy-time-data-poly/".  Github is not monitored.
+Please post any issues encountered on the UDI Forum at "https://forum.universal-devices.com/forum/290-timedata/".  Github is not monitored.
 
 ## Release Notes
   - 3.2.24 22/04/2023
