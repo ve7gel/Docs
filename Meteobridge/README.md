@@ -43,6 +43,9 @@ Please raise any issues on the UDI forum at "https://forum.universal-devices.com
 
 
 # Release Notes
+- 3.2.0 03/02/2024
+  - add indoor temperature, dew point and humidity values to respective nodes
+  - add additional error traps to better catch invalid responses from the Meteobridge
 - 3.1.1 20/03/2023
   - update requirements to latest udi_interface
 - 3.1.0 01/03/2023
