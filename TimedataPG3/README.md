@@ -13,8 +13,14 @@ There have been some changes made during the migration to PG3. In particular, so
 when using variable substitution, some updates to your Configuration/Customizations may be required.  For instance, the
 "timedata" node was renamed to "controller", so instead of: ${sys.node.n007_timedata.GV5}, the script needs to be: ${sys.node.n007_controller.GV5}
 
+#### Features
+See the two images below for screen displays of data provided by the Node Server
+![Timedata screen](./Images/Timedata.png)
+![Sundata screen](Images/Sundata.png)
+
+
 #### Issues
-Please post any issues encountered on the UDI Forum at "https://forum.universal-devices.com/topic/28797-new-isy-time-data-poly/".  Github is not monitored.
+Please post any issues encountered on the UDI Forum at "https://forum.universal-devices.com/forum/290-timedata/".  Github is not monitored.
 
 ## Release Notes
   - 3.2.24 22/04/2023
