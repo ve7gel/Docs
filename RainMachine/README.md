@@ -45,6 +45,8 @@ Github is not watched.
  * 'GV4', Weekday restrictions?
 
 ## Release Notes
+- 3.2.2 30/06/2024
+  - minor code updates, update requirements, improve error trapping
 - 3.2.1 15/04/2023
   - update for latest udi_interface.  Fix heartbeat display.
 - 3.2.0 04/04/2022
