@@ -1,4 +1,9 @@
 # udi-poly-intesis
+Plug-in is designed to auto-discover your WMP devices.  Your EISY/Polisy and your WMP devices must be on the same
+network and subnet for this to work properly.
+Some WMP devices are occasionally a little slow to respond to the auto-discover
+query, so a re-start or discover may be required to find them.
+
 Only fully tested with Daikin FDMQ and FTXS, with Intesis R0001 and I0001 HomeAutomation Wi-Fi interfaces.  It should work
 for other brands of heat pumps as well with the Intesis interfaces, as they all seem to use
 the same Intesis WMP protocol. See: 
