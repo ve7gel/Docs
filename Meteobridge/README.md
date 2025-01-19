@@ -1,5 +1,5 @@
 # MeteoBridge
-Node server to acquire data using templates from Meteobridge 
+Plugin for EISY/Polisy to acquire data using templates from Meteobridge 
 weather server.  Requires authorization thus entry of username
 and password.  This node server is an adaptation of the
 meteobridgepoly node server written by [Bob Pauuwe](http://www.bobsplace.com).
