@@ -43,6 +43,9 @@ Please raise any issues on the UDI forum at "https://forum.universal-devices.com
 
 
 # Release Notes
+- 3.3.0 20/01/2025
+  - add lightning reporting for weather stations that support it.
+  - add calculations for evapotranspiration for stations don't support it directly, but that provide enough input data to calculate.
 - 3.2.0 03/02/2024
   - add indoor temperature, dew point and humidity values to respective nodes
   - add additional error traps to better catch invalid responses from the Meteobridge
