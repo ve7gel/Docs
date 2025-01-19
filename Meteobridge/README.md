@@ -4,10 +4,9 @@ weather server.  Requires authorization thus entry of username
 and password.  This node server is an adaptation of the
 meteobridgepoly node server written by [Bob Pauuwe](http://www.bobsplace.com).
 
-This node server is designed to support the [Meteobridge](http://www.meteobridge.com/)
-in combination with a [Davis Instruments Vantage Pro 2+](https://www.davisinstruments.com/solution/vantage-pro2/) weather station
-It should run with other Meteobridge connected weather stations, but 
-the evapotranspiration values provided by the VP2+ will be missing
+This node server was originally designed to support the [Meteobridge](http://www.meteobridge.com/)
+in combination with a [Davis Instruments Vantage Pro 2+](https://www.davisinstruments.com/solution/vantage-pro2/) weather station. 
+It should run with other Meteobridge connected weather stations (it does work with a Weatherflow Tempest connected to Meteobridge)
  
 ## Installation
 
