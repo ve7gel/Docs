@@ -23,6 +23,8 @@ See the two images below for screen displays of data provided by the Node Server
 Please post any issues encountered on the UDI Forum at "https://forum.universal-devices.com/forum/290-timedata/".  Github is not monitored.
 
 ## Release Notes
+  - 3.3.0 25/07/2025
+    - profile tweaks
   - 3.2.24 22/04/2023
     - update nodeserver status
   - 3.2.23 20/03/2023
