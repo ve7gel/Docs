@@ -25,6 +25,7 @@ Please post any issues encountered on the UDI Forum at "https://forum.universal-
 ## Release Notes
   - 3.4.0 28/102/2025
     - minor code and profile changes to fix a problem with data not showing properly in eisy-ui
+    - the changes may require that certain elements in IoX programs be updated.
   - 3.3.1/2 28/10/2025
     - more profile tweaks
   - 3.3.0 25/07/2025
