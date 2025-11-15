@@ -21,6 +21,9 @@ You will likely need to be logged out of your phone app, or any other web sites 
 likely get and "Authorization Error". Once you have the credential, you can then log back in to the app.
 
 ###Version History:
+4.2.0 October 31, 2025
+- modify profiles for eisy/udm compatibility improvement
+
 4.0.2 March 20, 2023
 - update requirements for latest udi_interface
 
