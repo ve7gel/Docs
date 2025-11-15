@@ -21,6 +21,13 @@ You will likely need to be logged out of your phone app, or any other web sites 
 likely get and "Authorization Error". Once you have the credential, you can then log back in to the app.
 
 ###Version History:
+5.0.0 Beta November 10, 2025
+- modify code so that only drivers actually available with specific models are loaded
+- convert VOC and NOC display values to more meaningful ratings (as described by the Dyson App) instead of raw numbers
+- significant changes to profiles to improve operability with eisy-ui in particular and UDM to some degree.
+- profile changes will have significant impact on the way the status/commands work in IoX programs and most of those
+  will need to be altered.
+
 4.2.0 October 31, 2025
 - modify profiles for eisy/udm compatibility improvement
 
