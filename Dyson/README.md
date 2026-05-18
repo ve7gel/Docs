@@ -11,16 +11,23 @@ rendering this nodeserver inoperable.  I can offer no assurances that this can b
 Dyson PH02 PureHumidifyCool support is basic.  Humidity settings are not yet implemented.
 Dyson TP02 PureCoolLink support is in BETA.  Please report any issues on the forum.
 
-Configuration will require downloading https://github.com/shenxn/libdyson/blob/main/get_devices.py from libdyson, and 
-then running it "python3 get_devices.py".  Supply your account email address and password, then enter the token that you
-receive at the email address registered on your account.  The program will the supply the credential.  Copy and save it.
-You can do this by "ssh"ing to your Polisy or Eisy.  The libdyson library then is cloned from github into your admin
-directory.  Change into the library directory and run the command above.
+Configuration will require downloading https://github.com/cmgrayb/libdyson-rest/blob/main/examples/troubleshoot_account.py 
+from libdyson-rest, and then running it as "python3 troubleshoot_account.py".  Supply your account email address and password, etc.  
+The program will output a .json file beginning with "dyson_troubleshooting". The information you need 
+for plugin configuration will be listed under "mqtt_analysis", "local_mqtt", "host" "(name of your device)".
+Enter: 
+  "username" as "Serial"
+  "password" as "Credential"
+  "root_topic" as "Type"
 
-You will likely need to be logged out of your phone app, or any other web sites for this to work, otherwise you will most
+
+You may need to be logged out of your phone app, or any other websites for this to work, otherwise you will most
 likely get and "Authorization Error". Once you have the credential, you can then log back in to the app.
 
 ###Version History:
+5.1.0 Beta May 18, 2025
+- add support for Dyson Hushjet HJ10
+
 5.0.0 Beta November 10, 2025
 - modify code so that only drivers actually available with specific models are loaded
 - convert VOC and NOC display values to more meaningful ratings (as described by the Dyson App) instead of raw numbers
