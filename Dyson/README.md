@@ -1,15 +1,17 @@
 # udi-poly-dysonfan
-UDI Poly for Dyson TP series fans. I only have a TP07 DysonPureCool so haven't tested it with any other models.  There
+UDI Plugin for Dyson  series fans. I only have a TP07 DysonPureCool so haven't tested it with any other models.  There
 is currently no support for any heat models.  If you are interested in adding support and are willing to test, PM me on 
-the UDI Forum (@glarsen). 
+the UDI Forum (@glarsen). Note that the plugin named "DysonPureCool" supports all models list below EXCEPT the HJ10 Hushjet.
+The plugin named "DysonFan" adds support for the Hushjet.
 
-This nodeserver uses the libdyson Python library by Xiaonan Shen. 
+This plugin uses the libdyson Python library by Xiaonan Shen. 
 
 WARNING:  Dyson could change their API at any time 
-rendering this nodeserver inoperable.  I can offer no assurances that this can be fixed.
+rendering this plugin inoperable.  I can offer no assurances that this can be fixed.
 
-Dyson PH02 PureHumidifyCool support is basic.  Humidity settings are not yet implemented.
+Dyson PH02 PureHumidifyCool support is BETA.  Humidity settings may/may not work.
 Dyson TP02 PureCoolLink support is in BETA.  Please report any issues on the forum.
+Dyson HJ10 Hushjet support is in BETA.
 
 Configuration will require downloading https://github.com/cmgrayb/libdyson-rest/blob/main/examples/troubleshoot_account.py 
 from libdyson-rest, and then running it as "python3 troubleshoot_account.py".  Supply your account email address and password, etc.  
@@ -25,6 +27,9 @@ You may need to be logged out of your phone app, or any other websites for this 
 likely get and "Authorization Error". Once you have the credential, you can then log back in to the app.
 
 ###Version History:
+5.2.0 June 1,2026
+- release 5.1.0 to Production
+
 5.1.0 Beta May 18, 2025
 - add support for Dyson Hushjet HJ10
 
