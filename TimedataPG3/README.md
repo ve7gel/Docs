@@ -23,7 +23,10 @@ See the two images below for screen displays of data provided by the Node Server
 Please post any issues encountered on the UDI Forum at "https://forum.universal-devices.com/forum/290-timedata/".  Github is not monitored.
 
 ## Release Notes
-  - 3.4.0 28/102/2025
+  - 3.5.0b 26/05/2026
+    - replaced shortPoll with scheduler loop (shortPoll no longer used. All time changes now occur at the "00" second
+      point regardless of when the plugin was restarted.
+  - 3.4.0 28/10/2025
     - minor code and profile changes to fix a problem with data not showing properly in eisy-ui
     - the changes may require that certain elements in IoX programs be updated.
   - 3.3.1/2 28/10/2025
