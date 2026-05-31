@@ -1,4 +1,4 @@
-# udi-poly-dysonfan
+# Ddysonfan
 UDI Plugin for Dyson  series fans. I only have a TP07 DysonPureCool so haven't tested it with any other models.  There
 is currently no support for any heat models.  If you are interested in adding support and are willing to test, PM me on 
 the UDI Forum (@glarsen). Note that the plugin named "DysonPureCool" supports all models list below EXCEPT the HJ10 Hushjet.
