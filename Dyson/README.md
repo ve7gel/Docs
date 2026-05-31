@@ -11,7 +11,6 @@ rendering this plugin inoperable.  I can offer no assurances that this can be fi
 
 Dyson PH02 PureHumidifyCool support is BETA.  Humidity settings may/may not work.
 Dyson TP02 PureCoolLink support is in BETA.  Please report any issues on the forum.
-Dyson HJ10 Hushjet support is in BETA.
 
 Configuration will require downloading https://github.com/cmgrayb/libdyson-rest/blob/main/examples/troubleshoot_account.py 
 from libdyson-rest, and then running it as "python3 troubleshoot_account.py".  Supply your account email address and password, etc.  
