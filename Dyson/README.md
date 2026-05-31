@@ -28,7 +28,7 @@ likely get and "Authorization Error". Once you have the credential, you can then
 
 ###Version History:
 5.2.0 June 1,2026
-- release 5.1.0 to Production
+- release 5.2.0 to Production
 
 5.1.0 Beta May 18, 2025
 - add support for Dyson Hushjet HJ10
