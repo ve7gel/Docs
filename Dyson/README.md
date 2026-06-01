@@ -27,7 +27,10 @@ likely get and "Authorization Error". Once you have the credential, you can then
 
 ###Version History:
 5.2.0 June 1,2026
-- release 5.2.0 to Production
+- release 5.2.0 to Production.
+  - NOTE: Due to the name change from "DysonPureCool" to "DysonFan" you may need to reinstall this
+    plugin. It will require deleting your old "DysonPureCool" and re-installing "DysonFan" in the same
+    slot.  Since the NSID has not changed, your existing licensing should be fine.
 
 5.1.0 Beta May 18, 2025
 - add support for Dyson Hushjet HJ10
