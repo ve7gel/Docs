@@ -23,6 +23,8 @@ See the two images below for screen displays of data provided by the Node Server
 Please post any issues encountered on the UDI Forum at "https://forum.universal-devices.com/forum/290-timedata/".  Github is not monitored.
 
 ## Release Notes
+  - 3.5.0 01/06/2026
+    - release version
   - 3.5.0b 26/05/2026
     - replaced shortPoll with scheduler loop (shortPoll no longer used. All time changes now occur at the "00" second
       point regardless of when the plugin was restarted.
