@@ -26,6 +26,10 @@ You may need to be logged out of your phone app, or any other websites for this 
 likely get and "Authorization Error". Once you have the credential, you can then log back in to the app.
 
 ###Version History:
+5.2.1 July 5, 2026
+- bugfixes for profiles for PH02/PH04 fans
+- fix auto mode not working properly for TP07 type 438E
+
 5.2.0 June 1,2026
 - release 5.2.0 to Production.
   - NOTE: Due to the name change from "DysonPureCool" to "DysonFan" you may need to reinstall this
