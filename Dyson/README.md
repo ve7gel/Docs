@@ -26,6 +26,10 @@ You may need to be logged out of your phone app, or any other websites for this 
 likely get and "Authorization Error". Once you have the credential, you can then log back in to the app.
 
 ###Version History:
+5.2.2 July 6, 2026
+- add version info in controller node
+- add code to wait for start until configuration is done
+
 5.2.1 July 5, 2026
 - bugfixes for profiles for PH02/PH04 fans
 - fix auto mode not working properly for TP07 type 438E
